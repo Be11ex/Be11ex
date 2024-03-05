@@ -6,9 +6,12 @@
 **Обо мне:**
 Я начинающий ручной тестировщик, мой путь в it начался со стартап проекта VUCHOBE, где я начал осваивать основы тестирования. После я прошёл курс по профессии “Инженер по тестированию”.
 
-**Связаться со мной:** 
+**Связаться со мной:**
+
 [hh.ru](https://samara.hh.ru/applicant/resumes/view?resume=becd9784ff09d94d820039ed1f424b79627375)
+
 [Telegram](https://t.me/Be11ex)
+
 [Вконтакте](https://vk.com/id115208744)
 
 **Языки и инструменты:**
@@ -40,6 +43,7 @@ SQL
 [Postman коллекция](https://drive.google.com/file/d/1WXsCvUFezvFjzsTLUzCbCh0RzE4ZqgbM/view?usp=sharing)
 
 **Проект курса SQL**
+
 [Домашняя работа 1](https://docs.google.com/document/d/1olGnVnFma3DWZQz87lrsDjWAm3hHkORoyfQlIRN83xo/edit#heading=h.8vdigwn22n1c)
 
 [Домашняя работа 2](https://docs.google.com/document/d/1YWImyBEhC4inqP7nrMxxzFITCFAcJmgt8AINRO8CN7Q/edit)
