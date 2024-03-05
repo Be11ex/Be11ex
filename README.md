@@ -32,6 +32,7 @@ SQL
 Ручное тестирование
 
 **Портфолио**
+
 [Курсовая работа онлайн школы Skypro](https://testik1.atlassian.net/wiki/spaces/1/overview)
 
 **Проект первого курса**
