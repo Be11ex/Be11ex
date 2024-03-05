@@ -35,11 +35,15 @@ SQL
 [Курсовая работа онлайн школы Skypro](https://testik1.atlassian.net/wiki/spaces/1/overview)
 
 **Проект первого курса**
+
 [Qase](https://app.qase.io/project/KK1?view=1)
+
 [Проект курсовой работы](https://testik1.atlassian.net/wiki/spaces/1/overview)
+
 [Баг-репорты](https://testik1.atlassian.net/wiki/spaces/1/pages/622593)
 
 **Проект второго курса**
+
 [Postman коллекция](https://drive.google.com/file/d/1WXsCvUFezvFjzsTLUzCbCh0RzE4ZqgbM/view?usp=sharing)
 
 **Проект курса SQL**
