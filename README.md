@@ -8,9 +8,7 @@
 
 **Связаться со мной:**
 [hh.ru](https://samara.hh.ru/applicant/resumes/view?resume=becd9784ff09d94d820039ed1f424b79627375)
-
 [Telegram](https://t.me/Be11ex)
-
 [Вконтакте](https://vk.com/id115208744)
 
 **Языки и инструменты:**
